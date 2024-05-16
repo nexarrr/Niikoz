@@ -20,10 +20,18 @@ Voici quelques-uns des projets auxquels j'ai contribué :
 - [Nom du projet open source] : Description de ta contribution et lien vers le projet.
 - [Nom du projet open source] : Description de ta contribution et lien vers le projet.
 
-## Contact
-- Tu peux me contacter sur [LinkedIn](lien_vers_ton_profil_LinkedIn) pour discuter de collaborations ou de projets intéressants.
-- Mon site web : [lien_vers_ton_site_web]
-- Email : ton@email.com
+## Réseaux Sociaux
+[![LinkedIn](lien_vers_ton_logo_LinkedIn)](lien_vers_ton_profil_LinkedIn)
+[![Twitter](lien_vers_ton_logo_Twitter)](lien_vers_ton_profil_Twitter)
+[![Instagram](lien_vers_ton_logo_Instagram)](lien_vers_ton_profil_Instagram)
+[![Site Web](lien_vers_ton_logo_SiteWeb)](lien_vers_ton_site_web)
+
+## Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true)
+
+## Langages les plus utilisés
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur)
+
 
 ## Statistiques GitHub
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vanille9186&show_icons=true)
