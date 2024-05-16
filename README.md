@@ -26,7 +26,7 @@ Voici quelques-uns des projets auxquels j'ai contribué :
 - Email : ton@email.com
 
 ## Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vanille9186&show_icons=true)
 
 ## Langages les plus utilisés
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanille9186)
