@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- Titre et logo -->
+# Bienvenue sur mon profil GitHub ! 👋
+![Logo](lien_vers_ton_logo)
 
-<!--
-**Vanille9186/Vanille9186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Je suis [ton nom](lien_vers_ton_site_web), un passionné de [ton domaine ou technologie préférée]. J'aime explorer de nouvelles idées, contribuer à des projets open source et apprendre continuellement.
 
-Here are some ideas to get you started:
+## Compétences
+- Langages de programmation : [liste des langages que tu maîtrises]
+- Outils et technologies : [liste des outils, frameworks, etc. que tu utilises]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+Voici quelques-uns des projets auxquels j'ai contribué :
+1. **Nom du projet 1** : Description brève du projet et de ton rôle.
+   - Lien vers le projet
+2. **Nom du projet 2** : Description brève du projet et de ton rôle.
+   - Lien vers le projet
+
+## Contributions Open Source
+- [Nom du projet open source] : Description de ta contribution et lien vers le projet.
+- [Nom du projet open source] : Description de ta contribution et lien vers le projet.
+
+## Contact
+- Tu peux me contacter sur [LinkedIn](lien_vers_ton_profil_LinkedIn) pour discuter de collaborations ou de projets intéressants.
+- Mon site web : [lien_vers_ton_site_web]
+- Email : ton@email.com
+
+## Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true)
+
+## Langages les plus utilisés
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur)
