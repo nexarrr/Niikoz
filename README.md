@@ -1,40 +1,21 @@
-<!-- Titre et logo -->
-# Bienvenue sur mon profil GitHub ! 👋
-![Logo](lien_vers_ton_logo)
+### Hi there 👋
 
-## À propos de moi
-Je suis [ton nom](lien_vers_ton_site_web), un passionné de [ton domaine ou technologie préférée]. J'aime explorer de nouvelles idées, contribuer à des projets open source et apprendre continuellement.
+**Welcome to my github page.**
+I am Laxyny, a young French passionate about development, I try to diversify using several platforms (android, ios, Windows, Linux...) but also different programming languages (Dart, JavaScript, HTML...).
 
-## Compétences
-- Langages de programmation : [liste des langages que tu maîtrises]
-- Outils et technologies : [liste des outils, frameworks, etc. que tu utilises]
-
-## Projets
-Voici quelques-uns des projets auxquels j'ai contribué :
-1. **Nom du projet 1** : Description brève du projet et de ton rôle.
-   - Lien vers le projet
-2. **Nom du projet 2** : Description brève du projet et de ton rôle.
-   - Lien vers le projet
-
-## Contributions Open Source
-- [Nom du projet open source] : Description de ta contribution et lien vers le projet.
-- [Nom du projet open source] : Description de ta contribution et lien vers le projet.
-
-## Réseaux Sociaux
-[![LinkedIn](lien_vers_ton_logo_LinkedIn)](lien_vers_ton_profil_LinkedIn)
-[![Twitter](lien_vers_ton_logo_Twitter)](lien_vers_ton_profil_Twitter)
-[![Instagram](lien_vers_ton_logo_Instagram)](lien_vers_ton_profil_Instagram)
-[![Site Web](lien_vers_ton_logo_SiteWeb)](lien_vers_ton_site_web)
-
-## Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true)
-
-## Langages les plus utilisés
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur)
+I am not yet a developer but I will make sure to become one!
 
 
-## Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Vanille9186&show_icons=true)
+**My Skills:**
 
-## Langages les plus utilisés
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanille9186)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
+
+
+![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
+![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+</p>
