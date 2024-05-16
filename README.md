@@ -12,8 +12,8 @@ I am not yet a developer but I will make sure to become one!
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py,dart,flutter)
 
 
-![Github](https://github-readme-stats.vercel.app/api?username=laxyny&theme=calm_pink&show_icons=true)
-![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=laxyny&layout=compact)
+![Github](https://github-readme-stats.vercel.app/api?username=Vanille9186&theme=calm_pink&show_icons=true)
+![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanille9186&layout=compact)
 
 
 <p align="center">
