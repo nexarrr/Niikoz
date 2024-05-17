@@ -2,9 +2,9 @@
 <h3 align="center">I'm a passionate frontend developer from France. I love building responsive and user-friendly web applications using modern technologies. I'm constantly exploring new tools and frameworks to improve my skills and stay up to date with industry trends.</h3>
 
 ## About Me
-🌱 I'm currently learning and exploring every facet of the development world.
-👯 I'm looking to collaborate on open source projects and be able to work as part of a team on new topics.
-⚡ Fun fact: I love playing video games and exploring new tech gadgets.
+- 🌱 I'm currently learning and exploring every facet of the development world.
+- 👯 I'm looking to collaborate on open source projects and be able to work as part of a team on new topics.
+- ⚡ Fun fact: I love playing video games and exploring new tech gadgets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
