@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">I'm a passionate frontend developer from France. I love building responsive and user-friendly web applications using modern technologies. I'm constantly exploring new tools and frameworks to improve my skills and stay up to date with industry trends.</h3>
+
+## About Me
+- 🌱 I’m currently learning advanced JavaScript and exploring backend development.
+- 👯 I’m looking to collaborate on open source projects and innovative web applications.
+- 💬 Ask me about frontend development, JavaScript, and web performance.
+- ⚡ Fun fact: I love playing video games and exploring new tech gadgets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
