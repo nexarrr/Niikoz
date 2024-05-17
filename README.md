@@ -18,3 +18,7 @@
 
 ![Github](https://github-readme-stats.vercel.app/api?username=Vanille9186&theme=calm_pink&show_icons=true)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanille9186&layout=compact)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/mIuf1-1SGRMAAAAC/im-out-peace.gif" alt="Coding GIF">
+</p>
