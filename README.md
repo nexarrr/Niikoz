@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h1 align="center">Hi 👋, I'm NikoZ</h1>
 <h3 align="center">I'm a developer from France. I love building responsive and user-friendly web applications using modern technologies. I'm constantly exploring new tools and frameworks to improve my skills and stay up to date with industry trends.</h3>
 
 ## About Me
